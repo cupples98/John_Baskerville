@@ -7,3 +7,4 @@
 # History of Type
 
 [Version 1](https://cupples98.github.io/john_baskerville/)
+[version 2](https://cupples98.github.io/john_baskerville/baskerville.html) 
