@@ -13,8 +13,9 @@ body {
     max-width: 600px;
     margin:auto;
     background: #fafafa;
-    color:#333
+    color:#333;
     font-family: 'Libre Baskerville', serif;
+    
 } 
 
 /*----- typography -----*/
@@ -29,6 +30,8 @@ p, blockquote {
     line-height: 1.4em;
    
 }
+
+p {font-family: 'Open Sans', sans-serif;}
 
 h1 {font-style: 2.827; 
     margin-top: 2.em;
