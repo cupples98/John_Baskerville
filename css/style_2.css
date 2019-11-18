@@ -63,7 +63,7 @@ blockquote {
     font-size: 1.1414em;
     hanging-punctuation: : first;
     text-indent: -0.45em;
-    color: lightgray;
+    color: orange;
 }
 
 blockquote cite {
@@ -78,7 +78,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #670DFF;
+    background-color: BLACK;
     padding: 1em 0;
     font-size: 0.75em;
 
@@ -104,7 +104,7 @@ nav a:link {
 }
 
 nav a:hover {
-    color: black;
+    color: white;
 }
 
 /*----- footer -----*/
