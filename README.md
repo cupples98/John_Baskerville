@@ -11,4 +11,6 @@
 
 # History of Type
 
-[Version 1](https://cupples98.github.io/john_baskerville/)
+[Version 1](https://cupples98.github.io/john_baskerville/history.html)
+ 
+[Version 1](https://cupples98.github.io/john_baskerville/history_2.html)

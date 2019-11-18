@@ -1,58 +1,115 @@
 /*----- css reset-----*/
 
-*{
-padding:0;
-    margin:0;
-    fpnt-size:100%;
-    line-height: 1em;}
+* {
+    padding: 0;
+    margin: 0;
+    fpnt-size: 100%;
+    line-height: 1em;
+}
+
 /*----- main styling -----*/
 
 body {
     width: 80%;
     max-width: 600px;
-    margin:auto;
+    margin: auto;
     background: #fafafa;
-    color:#333;
+    color: #333;
     font-family: 'Libre Baskerville', serif;
-} 
+}
 
 /*----- typography -----*/
-h1, h2, h3 {
-    font-weight: normal; 
+h1,
+h2,
+h3 {
+    font-weight: normal;
     color: #FF8924;
     text-align: center;
 }
 
-p, blockquote {
+p,
+blockquote {
     margin-bottom: 1.5em;
     line-height: 1.4em;
 }
 
-p {font-family: 'Open Sans', sans-serif;}
+a {
+    color: orange;
+    text-decoration: none;
 
-h1 {font-style: 2.827; 
-    margin-top: 2.em;
- margin-bottom: 0.1em; 
 }
 
-h2 {font-style: 1.999;
-margin: 3em 0 1em 0;}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
 
-h3 {font-style: 1.414;
-margin: 3em 0 1em 0;}
+h1 {
+    font-size: 2.827em;
+    margin-top: 1em;
+    margin-bottom: 0.1em;
+}
 
-blockquote { 
+h2 {
+    font-size: 1.999;
+    margin: 1em 0 1em 0;
+}
+
+h3 {
+    font-style: 1.414;
+    margin: 3em 0 1em 0;
+}
+
+blockquote {
     font-size: 1.1414em;
-     hanging-punctuation: : first;
-      text-indent: -0.45em;
-       color: lightgray;}
+    hanging-punctuation: : first;
+    text-indent: -0.45em;
+    color: lightgray;
+}
 
-blockquote cite { 
+blockquote cite {
     font-size: 1em;
 }
 
+/*-----navigation-----*/
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #670DFF;
+    padding: 1em 0;
+    font-size: 0.75em;
+
+}
+
+nav ul {
+
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+}
+
+nav ul li {
+
+    display: inline;
+    margin: 20px;
+
+}
+
+nav a:link {
+    color: orange;
+}
+
+nav a:hover {
+    color: black;
+}
+
 /*----- footer -----*/
-footer { 
-text-align: center;
-font-size: 0.707em;
-padding: 2em 0 1em 0;}
+footer {
+    text-align: center;
+    font-size: 0.707em;
+    padding: 2em 0 1em 0;
+}

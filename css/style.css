@@ -52,6 +52,26 @@ blockquote {
 blockquote cite { 
     font-size: 1em;
 }
+
+.type-list {
+    margin: 1em 0;
+    color:white;
+}
+
+.type-list ul {
+    list-style: none;
+}
+
+.type-list li { 
+margin: 0.5em 0;
+}
+
+.list-title {
+    
+font-size: 1.4em;
+    color: #670DFF;
+}
+
 /*----- styleing links -----*/ 
 
 a {
