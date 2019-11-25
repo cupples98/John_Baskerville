@@ -6,7 +6,9 @@
 
 [Version 3](https://cupples98.github.io/baskerville-two/baskerville-3.html) ADDED GOOGLE FONTS and links - 11 November 2019
 
-[vVersion 3](https://cupples98.github.io/baskerville-two/baskerville-3.html) BASIC CSS DEVELOPMENT, NAV CREATED, NEW LIST ADDED - 11 November 2019
+[Version 4](https://cupples98.github.io/baskerville-two/baskerville-4.html) BASIC CSS DEVELOPMENT, NAV CREATED, NEW LIST ADDED - 18 November 2019
+
+[Version 5](https://cupples98.github.io/baskerville-two/baskerville-5.html) ADDED TABLE, ADDED IMAGES - 25 November 2019
 
 
 # History of Type
@@ -18,4 +20,6 @@ ADDED BASIC CSS - 4th November 2019
 
 [Version 3](https://cupples98.github.io/john_baskerville/history_3.html) ADDED GOOGLE FONTS and links - 11th November 2019
 
-[Version 4](https://cupples98.github.io/john_baskerville/history_4.html)  BASIC CSS DEVELOPMENT, NAV CREATED - 18th November 2019
+[Version 4](https://cupples98.github.io/john_baskerville/history-4.html)  BASIC CSS DEVELOPMENT, NAV CREATED - 18th November 2019
+
+[Version ](https://cupples98.github.io/john_baskerville/history_5.html)  BASIC CSS DEVELOPMENT, NAV CREATED - 25th November 2019

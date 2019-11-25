@@ -138,6 +138,66 @@ nav a:hover {
     color: black;
 }
 
+/*-----Table style-----*/
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 100%;
+}
+
+caption {
+
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+
+
+}
+
+th {
+
+
+    color: white;
+    text-transfom: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #670DFF;
+
+}
+
+th,
+td {
+    padding: .6em;
+}
+
+table,
+td {
+    bakcground: black;
+    border: 1px solid #670DFF;
+
+}
+
+td {
+
+    color: orange;
+
+}
+
+/*-----images-----*/
+
+img {
+
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%;
+
+}
+
+
 /*----- footer -----*/
 footer {
     text-align: center;
