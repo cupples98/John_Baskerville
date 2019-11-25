@@ -20,6 +20,6 @@ ADDED BASIC CSS - 4th November 2019
 
 [Version 3](https://cupples98.github.io/john_baskerville/history_3.html) ADDED GOOGLE FONTS and links - 11th November 2019
 
-[Version 4](https://cupples98.github.io/john_baskerville/history-4.html)  BASIC CSS DEVELOPMENT, NAV CREATED - 18th November 2019
+[Version 4](https://cupples98.github.io/john_baskerville/history_4.html)  BASIC CSS DEVELOPMENT, NAV CREATED - 18th November 2019
 
 [Version 5](https://)  
