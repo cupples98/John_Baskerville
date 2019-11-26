@@ -155,13 +155,19 @@ td {
 table,
 td {
     bakcground: black;
-    border: 1px solid black;
+    border: 1px solid orange;
 
 }
 
 td {
 
-    color: black;
+    color: white;
+
+}
+
+tr {
+
+    background: black;
 
 }
 
