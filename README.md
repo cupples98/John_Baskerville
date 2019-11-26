@@ -24,3 +24,4 @@ ADDED BASIC CSS - 4th November 2019
 
 [Version 5](https://cupples98.github.io/john_baskerville/history_5.html) 
 ADDED IMAGES, ADDED TABLE - 16th November 2019
+
