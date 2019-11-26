@@ -107,6 +107,16 @@ nav a:hover {
     color: white;
 }
 
+/*-----images-----*/
+
+img {
+
+    display: block;
+    margin: 0em auto;
+    max-width: 100%;
+
+}
+
 /*----- footer -----*/
 footer {
     text-align: center;
